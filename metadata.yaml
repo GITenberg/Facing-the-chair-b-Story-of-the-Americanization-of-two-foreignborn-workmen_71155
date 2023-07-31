@@ -21,6 +21,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Anatole_France
     - https://fr.wikipedia.org/wiki/Anatole_France
+covers:
+- cover_type: archival
+  image_path: 71155-h/images/cover.jpg
 creator:
   author:
     agent_name: Dos Passos, John
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2015
     wikipedia: https://en.wikipedia.org/wiki/John_Dos_Passos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71155#Facing-the-chair-b-Story-of-the-Americanization-of-two-foreignborn-workmen
 gutenberg_issued: '2023-07-09'
 identifiers:
   gutenberg: '71155'
